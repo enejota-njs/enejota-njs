@@ -1,8 +1,8 @@
 ## Hello, I'm Nathan Santos! 👋
 
 <div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=enejota-njs&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enejota-njs&layout=compact&langs_count=16&theme=holi"/>
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=enejota-njs&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enejota-njs&layout=compact&langs_count=16&theme=holi"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -24,5 +24,3 @@
 <a href="https://www.linkedin.com/in/nathan-de-jesus-dos-santos-6868a0317" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
-![snake gif](https://github.com/enejota-njs/enejota-njs/blob/output/github-contribution-grid-snake-dark.svg)
