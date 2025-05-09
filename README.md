@@ -24,3 +24,5 @@
 <a href="https://www.linkedin.com/in/nathan-de-jesus-dos-santos-6868a0317" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+![Snake animation](https://github.com/enejota-njs/enejota-njs/blob/output/github-contribution-grid-snake.svg)
