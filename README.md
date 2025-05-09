@@ -25,4 +25,4 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-![snake gif]((https://github.com/enejota-njs/enejota-njs/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/enejota-njs/enejota-njs/blob/output/github-contribution-grid-snake.svg)
