@@ -1,7 +1,7 @@
 ## Hello, I'm Nathan Santos! 👋
 
 <div>
-  <img height="190cm" src="https://github-readme-stats.vercel.app/api?username=enejota-njs&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+  <img height="185cm" src="https://github-readme-stats.vercel.app/api?username=enejota-njs&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
   <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enejota-njs&layout=compact&langs_count=16&theme=holi"/>
 </div>
 
