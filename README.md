@@ -20,7 +20,8 @@
 ![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-ASM-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-ARM-6E4C13?style=for-the-badge&logo=arm&logoColor=white)
+
 
 ---
 
