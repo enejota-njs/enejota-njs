@@ -5,12 +5,6 @@
   <img height="185cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enejota-njs&layout=compact&langs_count=16&theme=holi&cache_seconds=1"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Nathan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Nathan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Nathan-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"> 
-</div>
-
 ##
 
 <a href="mailto:ns03052006@gmail.com" target="_blank">
