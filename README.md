@@ -2,13 +2,14 @@
 
 ## Hello, I'm Nathan Santos! 👋
 
-<div>
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=enejota-njs&show_icons=true&theme=holi&include_all_commits=true&count_private=true&cache_seconds=1"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enejota-njs&theme=github_dark" />
+</p>
 
-<div>
-  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enejota-njs&layout=compact&langs_count=16&theme=holi&cache_seconds=1"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enejota-njs&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enejota-njs&theme=github_dark" />
+</p>
 
 ---
 
